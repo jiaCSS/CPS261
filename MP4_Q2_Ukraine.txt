@@ -1,0 +1,138 @@
+Processing the file: src/Ukraine.txt
+1: **ukraine** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+2: **indo** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+3: **european** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+4: **slavic** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+5: **kievan** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+6: **breadbasket** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+7: **crimea** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+8: **kiev** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+9: **sevastopol** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+10: **russian** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+11: **europe** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+12: **russia** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+13: **paramilitary** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+14: **ukrainians** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+15: **russians** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+16: **belarusians** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+17: **tatars** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+18: **romanians** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+
+n
+19: **ukrainian** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+20: **cyrillic** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+21: **christianity** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+22: **borderland** is not in the dictionary and Miss Spelling List
+Add to dictionary: D
+Miss spelling: M
+Neither: N
+n
+After sorted list: 
+belarusians
+borderland
+breadbasket
+christianity
+crimea
+cyrillic
+europe
+european
+indo
+kiev
+kievan
+paramilitary
+romanians
+russia
+russian
+russians
+sevastopol
+slavic
+tatars
+ukraine
+ukrainian
+ukrainians
+The total number is : 22
+
+Process finished with exit code 0
