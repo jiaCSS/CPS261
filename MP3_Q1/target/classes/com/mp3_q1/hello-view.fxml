@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="610.0" prefWidth="883.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mp3_q1.HelloController">
+   <children>
+      <ComboBox fx:id="unitTypeMenu" layoutX="132.0" layoutY="46.0" onAction="#onUnitTypeChange" prefHeight="76.0" prefWidth="651.0" />
+      <ComboBox fx:id="rightUnitMenu" layoutX="505.0" layoutY="383.0" onAction="#onRightUnitChange" onKeyTyped="#onRightUnitChange" prefHeight="57.0" prefWidth="279.0" />
+      <TextField fx:id="rightTextField" layoutX="505.0" layoutY="273.0" onKeyTyped="#onRightTextField" prefHeight="111.0" prefWidth="279.0" />
+      <Label layoutX="422.0" layoutY="272.0" prefHeight="55.0" prefWidth="61.0" text="=">
+         <font>
+            <Font size="81.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="leftUnitMenu" layoutX="131.0" layoutY="383.0" onAction="#onRightUnitChange" onKeyTyped="#onRightUnitChange" prefHeight="57.0" prefWidth="279.0" />
+      <TextField fx:id="leftTextField" layoutX="132.0" layoutY="273.0" onKeyTyped="#onLeftTextField" prefHeight="111.0" prefWidth="278.0" />
+   </children>
+</AnchorPane>
